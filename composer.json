@@ -2,11 +2,6 @@
 	"keywords" : [
 		"Aura SQLQuery"
 	],
-	"autoload" : {
-		"psr-4" : {
-			"Of\\InxStmtChanger\\" : "src"
-		}
-	},
 	"name" : "openforce/IndexStatementChanger",
 	"type" : "library",
 	"description" : ":str type satement changes ?",
