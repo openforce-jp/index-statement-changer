@@ -1,6 +1,6 @@
 <?php
 
-namespace Of\InxStmtChanger;
+namespace Of;
 
 /**
  * Statement changer
