@@ -30,7 +30,7 @@ class StatementChanger {
 	
 	public function __construct($sql, $binds = null)
 	{
-		$this->targetSql = $sql;
+		$this->targetSQL = $sql;
 		$this->binds = $binds;
 	}
 	
