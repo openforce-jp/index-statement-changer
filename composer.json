@@ -2,7 +2,7 @@
 	"keywords" : [
 		"Aura SQLQuery"
 	],
-	"name" : "openforce/IndexStatementChanger",
+	"name" : "openforce/index-statement-changer",
 	"type" : "library",
 	"description" : ":str type satement changes ?",
 	"license" : "MIT",
